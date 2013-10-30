@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/*********************************************************************
+ * Copyright (C) 2012 Sony Mobile Communications AB.                 *
+ * All rights, including trade secret rights, reserved.              *
+ *********************************************************************/-->
+<!-- sessionID = a3lc1c-33ijd9-gzxoi1mc-1-h0m0ftc9-3lx -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">8 Game – Smart Extras™</string>
+    <string name="extension_name">8 Game</string>
+    <string name="game_finished_moves_text">關卡</string>
+    <string name="loading_image">正在載入影像</string>
+    <string name="preference_activity_title">8 Game設定</string>
+    <string name="share_result_title">選取應用程式</string>
+    <string name="share_text">我已完成SmartWatch 8 Game第%d關，您能打破這項記錄嗎？</string>
+    <string name="share_title">8 Game結果</string>
+</resources>

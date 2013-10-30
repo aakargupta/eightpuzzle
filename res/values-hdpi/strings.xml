@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/*********************************************************************
+ * Copyright (C) 2012 Sony Mobile Communications AB.                 *
+ * All rights, including trade secret rights, reserved.              *
+ *********************************************************************/-->
+<!-- sessionID = a3lc1c-33ijd9-gzxoi1mc-1-h0m0ftc9-3lx -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Application name. "Smart Extras" is trademarked. It should not be translated. Smart Extras is written as two words, capital S, capital E. Use ™ in every instance. 8 Game is a number/image game of moving tiles. The name should be translated.
+ -->
+    <string name="app_name" xliff:restype="x-AEF-NOBOX">8 Game – Smart Extras™</string>
+    <!-- Name of extension (number/image game of moving tiles), shown on SmartWatch. The name should be translated. -->
+    <string name="extension_name" xliff:restype="x-ANDROID/LIST/SETTINGS/LARGE/CHECKBOX">8 Game</string>
+    <!-- Title of preference activity, shown in preferences on phone -->
+    <string name="preference_activity_title" xliff:restype="x-GENERIC/HEADERTITLE/SMALL/V">8 Game settings</string>
+    <!-- Title in popup dialog when sharing result via another Android application, i.e., Facebook -->
+    <string name="share_result_title" xliff:restype="x-GENERIC/POPUP/TITLE/V">Select application</string>
+    <!-- Title for sharing result, not shown in 8 Game application -->
+    <string name="share_title" xliff:restype="x-AEF-NOBOX">8 Game result</string>
+    <!-- Text for sharing result, not shown in 8 Game application. %d will be replaced with a number (e.g. I finished the SmartWatch 8 Game in 5 moves, can you beat it?) -->
+    <string name="share_text" xliff:restype="x-AEF-NOBOX">I finished the SmartWatch 8 Game in %d moves, can you beat it?</string>
+    <!-- Text shown in progress dialog while loading game image -->
+    <string name="loading_image" xliff:restype="x-AEF-TEXT/CONTROL/1ROW/NORMAL">Loading image</string>
+    <!-- Text displayed on the SmartWatch when a game of 8 Game is finished, together with the number of moves in that game. -->
+    <string name="game_finished_moves_text" xliff:restype="x-AEF-TEXT/CONTROL/1ROW/BOLD">Moves</string>
+
+</resources>

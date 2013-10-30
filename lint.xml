@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+
+    <issue id="PxUsage">
+        <ignore path="res/layout/action_menu_layout.xml" />
+        <ignore path="res/layout/game_finished.xml" />
+        <ignore path="res/layout/loading.xml" />
+    </issue>
+
+    <issue id="IconDuplicates">
+        <ignore path="res/drawable-nodpi/eight_game_app_icon.png" />
+        <ignore path="res/drawable-ldpi/icon.png" />
+    </issue>
+
+    <issue id="ContentDescription">
+        <ignore path="res/layout/action_menu_layout.xml" />
+        <ignore path="res/layout/game_finished.xml" />
+        <ignore path="res/layout/loading.xml" />
+    </issue>
+</lint>

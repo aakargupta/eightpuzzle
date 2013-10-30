@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Here we put strings that doesn't have to go to localization -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="share_link">http://market.android.com/details?id=com.sonyericsson.extras.liveware.extension.eight.puzzle</string>
+
+</resources>

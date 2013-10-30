@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/*********************************************************************
+ * Copyright (C) 2012 Sony Mobile Communications AB.                 *
+ * All rights, including trade secret rights, reserved.              *
+ *********************************************************************/-->
+<!-- sessionID = a3lc1c-33ijd9-gzxoi1mc-1-h0f3l4sq-2ia -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Taquin à 9 cases – Smart Extras™</string>
+    <string name="extension_name">Taquin à 9 cases</string>
+    <string name="game_finished_moves_text">Mouvements</string>
+    <string name="loading_image">Chargement de l\'image</string>
+    <string name="preference_activity_title">Réglages du Taquin à 9 cases</string>
+    <string name="share_result_title">Sélectionner l\'application</string>
+    <string name="share_text">J\'ai fini le Taquin à 9 cases de SmartWatch en %d mouvements, pensez-vous faire mieux ?</string>
+    <string name="share_title">Résultat du Taquin à 9 cases</string>
+</resources>

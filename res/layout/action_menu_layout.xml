@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/smart_watch_control_width"
+    android:layout_height="@dimen/smart_watch_control_height" >
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="fill_parent"
+        android:layout_height="78px"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitEnd"
+        android:src="@drawable/action_menu_bg" />
+
+    <ImageView
+        android:id="@+id/return_id"
+        android:layout_width="40px"
+        android:layout_height="40px"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:padding="3px"
+        android:scaleType="fitXY"
+        android:src="@drawable/return_icn" />
+
+    <ImageView
+        android:id="@+id/image_game_id"
+        android:layout_width="40px"
+        android:layout_height="40px"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:padding="3px"
+        android:scaleType="fitXY"
+        android:src="@drawable/image_game_icn" />
+
+    <ImageView
+        android:id="@+id/number_game_id"
+        android:layout_width="40px"
+        android:layout_height="40px"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:padding="3px"
+        android:scaleType="fitXY"
+        android:src="@drawable/number_game_icn" />
+
+</RelativeLayout>

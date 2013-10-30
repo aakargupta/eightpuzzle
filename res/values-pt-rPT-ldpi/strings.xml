@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/*********************************************************************
+ * Copyright (C) 2012 Sony Mobile Communications AB.                 *
+ * All rights, including trade secret rights, reserved.              *
+ *********************************************************************/-->
+<!-- sessionID = a3lc1c-33ijd9-gzxoi1mc-1-h0m1ilc0-3ly -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">8 Game – Smart Extras™</string>
+    <string name="extension_name">Jogo 8</string>
+    <string name="game_finished_moves_text">Movimentos</string>
+    <string name="loading_image">A carregar imagem</string>
+    <string name="preference_activity_title">Definições do Jogo 8</string>
+    <string name="share_result_title">Selecionar aplicação</string>
+    <string name="share_text">Terminei o Jogo SmartWatch 8 em %d jogadas, consegues vencer-me?</string>
+    <string name="share_title">Resultado do Jogo 8</string>
+</resources>

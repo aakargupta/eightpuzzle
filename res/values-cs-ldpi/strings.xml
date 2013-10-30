@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/*********************************************************************
+ * Copyright (C) 2012 Sony Mobile Communications AB.                 *
+ * All rights, including trade secret rights, reserved.              *
+ *********************************************************************/-->
+<!-- sessionID = a3lc1c-33ijd9-gzxoi1mc-1-h0m1ilc0-3ly -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">8 Game – Smart Extras™</string>
+    <string name="extension_name">Hra 8</string>
+    <string name="game_finished_moves_text">Počet tahů</string>
+    <string name="loading_image">Načítání obrázku</string>
+    <string name="preference_activity_title">Nastavení Hry 8</string>
+    <string name="share_result_title">Vybrat aplikaci</string>
+    <string name="share_text">Počet pohybů, které jsem potřeboval(a) k dokončení Hry 8 pro příslušenství SmartWatch 8, je %d. Dokážeš mě porazit?</string>
+    <string name="share_title">Výsledek Hry 8</string>
+</resources>

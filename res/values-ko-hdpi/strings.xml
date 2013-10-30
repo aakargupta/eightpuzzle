@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/*********************************************************************
+ * Copyright (C) 2012 Sony Mobile Communications AB.                 *
+ * All rights, including trade secret rights, reserved.              *
+ *********************************************************************/-->
+<!-- sessionID = a3lc1c-33ijd9-gzxoi1mc-1-h0m0ftc9-3lx -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">8 게임 – Smart Extras™</string>
+    <string name="extension_name">8 게임</string>
+    <string name="game_finished_moves_text">이동</string>
+    <string name="loading_image">이미지 로드 중</string>
+    <string name="preference_activity_title">8 게임 설정</string>
+    <string name="share_result_title">응용프로그램 선택</string>
+    <string name="share_text">%d회 이동 후 SmartWatch 8 게임을 완료했습니다. 축하합니다!</string>
+    <string name="share_title">8 게임 결과</string>
+</resources>

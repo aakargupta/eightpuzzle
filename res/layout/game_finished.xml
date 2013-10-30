@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/smart_watch_control_width"
+    android:layout_height="@dimen/smart_watch_control_height" >
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/color_finished_background" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="78px"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitEnd"
+        android:src="@drawable/action_menu_bg" />
+
+    <ImageView
+        android:id="@+id/image_game_id"
+        android:layout_width="40px"
+        android:layout_height="40px"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/image_game_icn" />
+
+    <ImageView
+        android:id="@+id/number_game_id"
+        android:layout_width="40px"
+        android:layout_height="40px"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/number_game_icn" />
+
+    <ImageView
+        android:id="@+id/share_icon"
+        android:layout_width="40px"
+        android:layout_height="40px"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/share_icn" />
+
+    <TextView
+        android:id="@+id/game_finished_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/image_game_id"
+        android:gravity="center_horizontal|top"
+        android:text="@string/game_finished_moves_text"
+        android:textColor="@color/color_white"
+        android:textSize="@dimen/smart_watch_text_size_normal"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/game_finished_moves_count_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/game_finished_text"
+        android:gravity="center_horizontal|bottom"
+        android:textColor="@color/color_white"
+        android:textSize="45px"
+        android:textStyle="bold" />
+
+</RelativeLayout>
